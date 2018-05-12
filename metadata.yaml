@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40365'
     url: http://www.gutenberg.org/2009/agents/40365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39983#The-Weird-of-the-Wentworths-Vol.-2A-Tale-of-George-IV-s-Time
 gutenberg_issued: '2012-06-17'
 gutenberg_type: Text
 identifiers:
